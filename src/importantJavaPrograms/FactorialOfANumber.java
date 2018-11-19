@@ -36,5 +36,7 @@ public class FactorialOfANumber
 	
 	
 	/* Output 
+	 * Factorial of a number is3628800
+
 	*/
 }
