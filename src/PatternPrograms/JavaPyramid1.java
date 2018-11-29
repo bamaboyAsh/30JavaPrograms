@@ -1,4 +1,4 @@
-package PatternPrograms;
+package patternPrograms;
 /*
 Java Pyramid 1 Example
 This Java Pyramid example shows how to generate pyramid or triangle

@@ -1,4 +1,4 @@
-package PatternPrograms;
+package patternPrograms;
 
 public class JavaPyramid2 
 {
