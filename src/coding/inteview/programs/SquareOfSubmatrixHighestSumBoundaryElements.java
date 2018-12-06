@@ -88,7 +88,7 @@ public class SquareOfSubmatrixHighestSumBoundaryElements
 			}
 			count++;
 		}
-		/*
+	/*
 		 for (int startPoint = 0; startPoint <width ; startPoint++) 
 		 {
 	            //group sizes
@@ -102,9 +102,9 @@ public class SquareOfSubmatrixHighestSumBoundaryElements
 		            	
 		                System.out.println();
 	            	}
-	            }	
+	          }	
 			}
-		*/
+	*/ 
 		
 	}
 
