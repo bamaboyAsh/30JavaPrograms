@@ -11,6 +11,7 @@ public class PalidromeOrNot
 		System.out.println("Enter a string to check if palindrome or not");
 		//taking input from user.
 		String input= sc.nextLine();
+		sc.close();
 		
 		//Convert String to String buffer
 		

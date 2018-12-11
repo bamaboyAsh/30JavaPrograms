@@ -17,6 +17,7 @@ public class PrimeNumberOrNot
 	{
 		Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();
+		sc.close();
 		boolean isPrime = true;
 		for(int i = 2; i < a/2; i++) 
 		{

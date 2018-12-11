@@ -6,7 +6,7 @@ package coding.inteview.programs;
 //Write a Java program to print the missing number from the sequence
 
 
-import java.util.Arrays;
+
 
 public class FindMissingNumbersInAnArray {
 

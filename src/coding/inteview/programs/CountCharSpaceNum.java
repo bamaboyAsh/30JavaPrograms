@@ -17,6 +17,7 @@ public class CountCharSpaceNum {
 		System.out.println("Enter a sentence to check");
 		// using a char array to save the input in.
 		input= sc.nextLine().toCharArray();
+		sc.close();
 		
 		//now logic to check each index and comapare the char.
 		
