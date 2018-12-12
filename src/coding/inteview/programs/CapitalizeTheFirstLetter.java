@@ -13,13 +13,14 @@ public class CapitalizeTheFirstLetter {
 	     
 		 String line = sc.nextLine();
 		 
-		 sc.close();
+	
 		 
 		 String upper_case_line = ""; 
 	     
 		 //Creating scanner obj to use scanner to scan the sentence and use special methods on string
 		 Scanner lineScan = new Scanner(line); 
-		
+		 
+		 sc.close();
 		 //iterating the string one by one
 		 while(lineScan.hasNext())
 		{
